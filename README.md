@@ -1,5 +1,5 @@
-### Hi there 👋
-- 🔭 I’m currently working on My GitHub profile!
+### Hi there 👋 Im Latrell! I'm a full-stack Engineer who is passionate about making music and Tech!
+- 🔭 Sharing updates on https://www.linkedin.com/in/latrell-sumner-code/
 - 🌱 I recently completed the BloomTech Full stack Course!
 - ⚡ Fun fact: I used to own a recording studio!
 <!--
