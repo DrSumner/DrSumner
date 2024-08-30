@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on My GitHub profile!
-- 🌱 I’m currently learning Technical Exam Preparation and GitHub
+- 🌱 I recently completed the BloomTech Full stack Course!
 - ⚡ Fun fact: I used to own a recording studio!
 <!--
 **DrSumner/DrSumner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
